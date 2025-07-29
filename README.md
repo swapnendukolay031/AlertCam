@@ -30,7 +30,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/alertcam.git
+git clone https://github.com/swapnendukolay031/alertcam.git
 cd alertcam
 Place your pre-recorded audio file (e.g., motion_detected.wav) in the project folder.
 
